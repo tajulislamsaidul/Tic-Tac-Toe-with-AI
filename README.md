@@ -1,5 +1,3 @@
-Tic Tac Toe Game in Python
-
 ### 🎮 Advanced Tic Tac Toe Game in Python (with AI, Sound & Score Saving)
 
 This is a beginner-friendly yet advanced **Tic Tac Toe game** written in Python. It supports two game modes—**Human vs Human** and **Human vs Computer (AI)**—and includes sound effects, error handling, and automatic score saving.
